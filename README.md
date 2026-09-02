@@ -160,6 +160,10 @@ The reported issue focuses on an inconsistent language/localization experience i
 - Improve selectors using dedicated test IDs where available
 - Add automated screenshot evidence for important checkpoints
 
+## Experience
+
+The task was a good opportunity to practice both manual testing and test automation in a real e-commerce checkout flow. The most challenging part was creating stable selectors and making sure the automated test followed the same steps as the manual guest checkout process. I also enjoyed exploring the checkout flow and verifying different positive, negative, and edge-case scenarios.
+
 ## Author
 
 Edison Gegaj
